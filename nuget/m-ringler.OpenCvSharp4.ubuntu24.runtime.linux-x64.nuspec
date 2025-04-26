@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>OpenCvSharp4.ubuntu24.runtime.linux-x64</id>
+        <id>m-ringler.OpenCvSharp4.ubuntu24.runtime.linux-x64</id>
         <version>4.6.0.20250206</version>
         <title>OpenCvSharp native bindings for Linux-x64</title>
         <authors>m-ringler;shimat</authors>
